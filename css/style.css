@@ -1,3 +1,14 @@
 .min{
     height: 200px;
 }
+.fondo{
+    box-shadow: 0px 0px 10px #b8b3b3;
+}
+.peq{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.centrar{
+    text-align: center;
+}
